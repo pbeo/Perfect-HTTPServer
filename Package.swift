@@ -1,6 +1,6 @@
 import PackageDescription
 
-let urls = ["https://github.com/PerfectlySoft/Perfect-HTTP.git"]
+let urls = ["https://github.com/pbeo/Perfect-HTTP.git"]
 
 let package = Package(
 	name: "PerfectHTTPServer",
